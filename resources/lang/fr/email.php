@@ -8,7 +8,7 @@ return [
     'ignore_pwd_reset'    => 'Ignorez ce message si vous n\'avez pas demandé un nouveau mot de passe',
     'ignore_pwd_init'    => 'Ignorez ce message si vous n\'avez pas créer un compte chez nous',
     'cta' => 'Cliquez sur le bouton ci dessous pour continuer ou coller le lien suivant :link',
-    'set_pwd_msg' => 'Vous venez de créer un compte chez Oragroup',
+    'set_pwd_msg' => 'Vous venez de créer un compte chez demogroup',
     'comment' => 'Nouveau commentaire',
     'comment_btn' => 'Voir le commentaire',
     'comment_title' => 'Il y du nouveau sur Demo !',

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="csrf-token" content="{{ csrf_token() }}">
-  <title>Demo - ORAGROUP</title>
+  <title>Demo - demogroup</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="/vendors/iconfonts/mdi/font/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="/vendors/css/vendor.bundle.base.css">
@@ -16,7 +16,7 @@
   <!-- End plugin css for this page -->
   <!-- inject:css -->
   <link rel="stylesheet" href="/css/horizontal-layout/style.css">
-  <link rel="stylesheet" href="/css/horizontal-layout/style_oragroup.css">
+  <link rel="stylesheet" href="/css/horizontal-layout/style_demogroup.css">
   <!-- endinject -->
   <link rel="stylesheet" href="/vendors/iconfonts/font-awesome/css/font-awesome.min.css" />
   @yield('styles')
@@ -29,7 +29,7 @@
       color: #fc5661 !important;
     }
   </style>
-  <link rel="shortcut icon" href="/images/favicon_oragroup.png" />
+  <link rel="shortcut icon" href="/images/favicon_demogroup.png" />
 </head>
 @php $user = auth()->user(); @endphp
 <body>
@@ -123,8 +123,8 @@
         <!-- partial:partials/_footer.html -->
         <footer class="footer">
           <div class="w-100 clearfix">
-            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">Oragroup</a>. Tous droits reservés.</span>
-            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center text-muted">Demo - Oragroup</span>
+            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">demogroup</a>. Tous droits reservés.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center text-muted">Demo - demogroup</span>
           </div>
         </footer>
         <!-- partial -->

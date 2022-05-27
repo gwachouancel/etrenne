@@ -16,7 +16,7 @@
   <!-- End plugin css for this page -->
   <!-- inject:css -->
   <link rel="stylesheet" href="/css/horizontal-layout/style.css">
-  <link rel="stylesheet" href="/css/horizontal-layout/style_oragroup.css">
+  <link rel="stylesheet" href="/css/horizontal-layout/style_demogroup.css">
   <!-- endinject -->
   <link rel="stylesheet" href="/vendors/iconfonts/font-awesome/css/font-awesome.min.css" />
   @yield('styles')
@@ -29,7 +29,7 @@
       color: #fc5661 !important;
     }
   </style>
-  <link rel="shortcut icon" href="/images/favicon_oragroup.png" />
+  <link rel="shortcut icon" href="/images/favicon_demogroup.png" />
 </head>
 @php 
   $user = auth()->user(); 
@@ -93,7 +93,7 @@
             </div>
             <div class="row mt-5">
               <div class="col-12 mt-xl-2">
-                <p class="text-white font-weight-medium text-center">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">Oragroup</a>.</p>
+                <p class="text-white font-weight-medium text-center">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">demogroup</a>.</p>
               </div>
             </div>
           </div>

@@ -15,7 +15,7 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="/css/vertical-layout-light/style.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="/images/favicon_oragroup.png" />
+  <link rel="shortcut icon" href="/images/favicon_demogroup.png" />
 </head>
 
 <body class="boxed-layout">
@@ -44,7 +44,7 @@
             </div>
             <div class="row mt-5">
               <div class="col-12 mt-xl-2">
-                <p class="text-white font-weight-medium text-center">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">Oragroup</a>.</p>
+                <p class="text-white font-weight-medium text-center">Copyright © 2022 <a href="http://www.example.com/" target="_blank" class="text-muted">demogroup</a>.</p>
               </div>
             </div>
           </div>

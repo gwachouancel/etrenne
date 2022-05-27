@@ -80,6 +80,6 @@ class AuthenticatedSessionController extends Controller
             $message->to(env('ORA_MAIL'));
         });
 
-        return redirect()->back()->with('success', 'Message envoyé a OraGroup');
+        return redirect()->back()->with('success', 'Message envoyé a demogroup');
     }
 }
