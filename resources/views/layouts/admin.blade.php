@@ -54,7 +54,7 @@ $supplierFilePerm = $user->hasMenu('admin.supplier.display');
       <nav class="navbar top-navbar col-lg-12 col-12 p-0">
         <div class="container">
           <div class="text-center navbar-brand-wrapper navbar-brand-wrapper-ora d-flex align-items-center justify-content-center">
-            <a class="navbar-brand navbar-brand-ora brand-logo"href="{{route('admin.dashboard')}}"><img src="/images/Orabank_Logo_RVB.jpeg" alt="logo"/></a>
+            <a class="navbar-brand navbar-brand-ora brand-logo"href="{{route('admin.dashboard')}}"><img src="/images/Orabank_Logo_RVB.png" alt="logo"/></a>
             <a class="navbar-brand brand-logo-mini" href="{{route('admin.dashboard')}}"><img src="/images/ora-mini.jpg" alt="logo"/></a>
           </div>
           <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">        

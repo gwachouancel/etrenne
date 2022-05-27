@@ -28,7 +28,7 @@
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <div class="auth-form-transparent text-left p-3">
               <div class="brand-logo">
-                <img src="/images/Orabank_Logo_RVB.jpeg" alt="logo">
+                <img src="/images/Orabank_Logo_RVB.png" alt="logo">
               </div>
               <h4>Bienvenue, {{$user->fullname}}</h4>
               <form class="pt-3" method="POST" id="form">
