@@ -1,0 +1,128 @@
+.navbar-brand-sobraga {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    line-height: inherit;
+    
+}
+
+.navbar-brand-sobraga img {
+    height: 55px;
+    margin-right: 0.1rem;
+}
+
+.navbar-brand-wrapper-sobraga {
+    font-weight: bold;
+    color: #656667;
+}
+
+.bottom-navbar-sobraga {
+    background-color: #CCCBCE !important;
+}
+
+.brand-logo-mini {
+    display: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.brand-logo-mini img {
+    max-width: 100%;
+    margin: auto;
+    height: 36px !important;
+    width: 36px !important;
+  }
+
+.brand-logo img {
+    width: 130px !important;
+    height: 38px !important;
+}
+
+.brand-logo-login img {
+    width: 300px !important;
+    height: 208px !important;
+}
+
+
+.nav-link span:hover {
+    font-weight: bolder !important;
+    color: black !important;
+}
+
+.text-info-sobraga {
+    color: #C80404 !important;
+}
+
+.text-info-green-sobraga {
+    color: #0dbf00 !important;
+}
+
+
+.nav-profile img {
+    width: 36px !important;
+    height: 30px !important;
+}
+
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-title, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link i, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-arrow {
+    color: #C80404 !important;
+    font-weight: bold;
+}
+
+.icon-line-list-sobraga li:nth-child(odd)::before {
+background: #8d9092;
+}
+
+.icon-line-list-sobraga li:nth-child(odd)::after {
+content: "\F150";
+}
+
+.icon-line-list-sobraga li:nth-child(even)::before {
+background: #f6303e;
+}
+
+.icon-line-list-sobraga li:nth-child(even)::after {
+content: "\F514";
+}
+
+.actif-sobraga {
+    padding-top: 15px;
+}
+
+.expire-sobraga {
+    font-size: 0.8rem;
+    font-family: inherit;
+    color: #8d9092;
+}
+
+.ajouter-link-sobraga {
+    font-size: 0.8rem;
+}
+
+.link-red-sobraga {
+    color: #f6303e !important;
+    font-size: 0.8rem;
+}
+
+.link-yellow-sobraga {
+    color: #d60312 !important;
+    font-weight: bold;
+}
+
+.btn-danger-sobraga {
+    color: #fff;
+    background-color: #d60312;
+    border-color: #d60312;
+}
+
+.line-up-sobraga {
+    padding: 1.5rem 0;
+    border-top: 1px solid #e9e8ef;
+}
+
+.reply-sobraga {
+    background-color: #fdefc7;
+}
+

@@ -1,0 +1,15 @@
+stages:
+- build_docker_image
+
+build_docker_image:
+  stage: build_docker_image
+  when: on_success
+  only:
+    - main
+  image: docker:stable
+  services:
+    - docker:dind
+  script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+    - docker build -t $CI_REGISTRY/agence.digital/projects/oragroup/etrennes .
+    - docker push $CI_REGISTRY/agence.digital/projects/oragroup/etrennes

@@ -1,0 +1,93 @@
+.navbar-brand-sabc {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    line-height: inherit;
+    
+}
+
+.navbar-brand-sabc img {
+    height: 55px;
+    margin-right: 0.1rem;
+}
+
+.navbar-brand-wrapper-sabc {
+    font-weight: bold;
+    color: #656667;
+}
+
+.bottom-navbar-sabc {
+    background-color: #fec524 !important;
+}
+
+.nav-link span:hover {
+    font-weight: bolder !important;
+    color: black !important;
+}
+
+.text-info-sabc {
+    color: #fec524 !important;
+}
+
+.text-info-green-sabc {
+    color: #0dbf00 !important;
+}
+
+.icon-line-list-sabc li:nth-child(odd)::before {
+background: #8d9092;
+}
+
+.icon-line-list-sabc li:nth-child(odd)::after {
+content: "\F150";
+}
+
+.icon-line-list-sabc li:nth-child(even)::before {
+background: #f6303e;
+}
+
+.icon-line-list-sabc li:nth-child(even)::after {
+content: "\F514";
+}
+
+.actif-sabc {
+    padding-top: 15px;
+}
+
+.expire-sabc {
+    font-size: 0.8rem;
+    font-family: inherit;
+    color: #8d9092;
+}
+
+.ajouter-link-sabc {
+    font-size: 0.8rem;
+}
+
+.link-red-sabc {
+    color: #f6303e !important;
+    font-size: 0.8rem;
+}
+
+.link-yellow-sabc {
+    color: #d60312 !important;
+    font-weight: bold;
+}
+
+.btn-danger-sabc {
+    color: #fff;
+    background-color: #d60312;
+    border-color: #d60312;
+}
+
+.line-up-sabc {
+    padding: 1.5rem 0;
+    border-top: 1px solid #e9e8ef;
+}
+
+.reply-sabc {
+    background-color: #fdefc7;
+}
+

@@ -1,0 +1,232 @@
+.navbar-brand-ora {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    line-height: inherit;
+    
+}
+
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-title, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link i, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-arrow {
+    color: #fff !important;
+}
+
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item > .nav-link {
+    color: #fff !important;
+}
+
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item > .nav-link .menu-icon {
+    color: #fff !important;
+}
+
+.navbar-brand-ora img {
+    height: 55px;
+    margin-right: 0.1rem;
+}
+
+.navbar-brand-wrapper-ora {
+    font-weight: bold;
+    color: #fff;
+}
+
+.bottom-navbar-ora {
+    background-color: #026604 !important;
+    transition-property: position, left, right, top, z-index !important;
+    box-shadow: 0 19px 34px -15px #d2d2f2 !important;
+    -webkit-box-shadow: 0 19px 34px -15px #d2d2f2 !important;
+}
+
+.brand-logo img {
+    width: 187px !important;
+    height: 40px !important;
+  }
+
+.nav-link span:hover {
+    font-weight: bolder !important;
+    color: greenyellow !important;
+}
+
+.text-info-ora {
+    color: #fec524 !important;
+}
+
+.text-param-ora {
+    color: #026604 !important;
+}
+
+.text-info-green-ora {
+    color: #0dbf00 !important;
+}
+
+.icon-line-list-ora li:nth-child(odd)::before {
+background: #8d9092;
+}
+
+.icon-line-list-ora li:nth-child(odd)::after {
+content: "\F150";
+}
+
+.icon-line-list-ora li:nth-child(even)::before {
+background: #f6303e;
+}
+
+.icon-line-list-ora li:nth-child(even)::after {
+content: "\F514";
+}
+
+.actif-ora {
+    padding-top: 15px;
+}
+
+.expire-ora {
+    font-size: 0.8rem;
+    font-family: inherit;
+    color: #8d9092;
+}
+
+.ajouter-link-ora {
+    font-size: 0.8rem;
+}
+
+.btn-primary:hover {
+    -webkit-box-shadow: 0 2px 2px 0 rgb(60 72 118 / 14%), 0 3px 1px -2px rgb(60 72 118 / 20%), 0 1px 5px 0 rgb(60 72 118 / 12%) !important;
+    box-shadow: 0 2px 2px 0 rgb(60 72 118 / 14%), 0 3px 1px -2px rgb(60 72 118 / 20%), 0 1px 5px 0 rgb(60 72 118 / 12%) !important;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background: #026604;
+}
+
+.link-red-ora {
+    color: #f6303e !important;
+    font-size: 0.8rem;
+}
+
+.link-green-ora {
+    color: #026604 !important;
+    font-weight: bold;
+}
+
+.link-white-ora {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.btn-danger-ora {
+    color: #fff;
+    background-color: #d60312;
+    border-color: #d60312;
+}
+
+.btn-primary {
+    background-color: #026604 !important;
+}
+
+.line-up-ora {
+    padding: 1.5rem 0;
+    border-top: 1px solid #e9e8ef;
+}
+
+.reply-ora {
+    background-color: #fdefc7;
+}
+
+.login-half-bg {
+    background-image: url("../../images/img_1.jpg") !important;
+    background-size: cover;
+}
+
+.form-control-ora {
+    height: 3rem !important;
+}
+
+.row-ora {
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
+
+.form-pos-ora {
+    vertical-align: sub !important;
+}
+
+.ora-pos-right {
+    float: right;
+}
+
+.br-current-rating {
+    width: 300px !important;
+}
+
+/* ------- */
+
+.attachments-sections ul li {
+    display: inline-flex !important;
+}
+
+.attachments-sections ul li {
+    flex-direction: row !important;
+}
+
+.attachments-sections ul li .thumb {
+    justify-content: center !important;
+}
+
+.attachments-sections ul li .thumb, .attachments-sections ul li .details .buttons {
+    align-items: center !important;
+}
+
+.attachments-sections ul li .details p.file-name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 100%;
+    white-space: nowrap;
+}
+  
+
+.attachments-sections ul {
+    list-style: none !important;
+    border-top: 1px solid #e9e8ef !important;
+    padding: 30px 15px 20px !important;
+  }
+  
+  .attachments-sections ul li {
+    padding: 10px !important;
+    margin-right: 20px !important;
+    border: 1px solid #e9e8ef !important;
+    border-radius: 5px !important;
+  }
+  
+  .attachments-sections ul li .thumb {
+    display: inline-block !important;
+    margin-right: 10px !important;
+  }
+  
+  .attachments-sections ul li .thumb i {
+    font-size: 30px !important;
+    margin: 0 !important;
+    color: #2e383e !important;
+  }
+  
+  .attachments-sections ul li .details p.file-name {
+    display: block !important;
+    margin-bottom: 0 !important;
+    color: #2e383e !important;
+  }
+  
+  .attachments-sections ul li .details .buttons .file-size {
+    margin-right: 10px !important;
+    margin-bottom: 0 !important;
+    font-size: 13px !important;
+  }
+  
+  .attachments-sections ul li .details .buttons a {
+    font-size: 13px !important;
+    margin-right: 10px !important;
+  }
+  
+  .attachments-sections ul li .details .buttons a:last-child {
+    margin-right: 0 !important;
+  }
+  
