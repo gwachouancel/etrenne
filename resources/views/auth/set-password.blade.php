@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="/css/horizontal-layout/style.css">
   <link rel="stylesheet" href="/css/horizontal-layout/style_demogroup.css">
   <!-- endinject -->
-  <link rel="shortcut icon" href="/images/favicon_demogroup.png" />
+  <link rel="shortcut icon" href="/images/favicon_demogroup.jpg" />
 </head>
 
 <body>
@@ -28,7 +28,7 @@
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <div class="auth-form-transparent text-left p-3">
               <div class="brand-logo">
-                <img src="/images/Orabank_Logo_RVB.jpg" alt="logo">
+                <img src="/images/Orabank_Logo_RVB.jpeg" alt="logo">
               </div>
               <h4>Bienvenue, {{$user->fullname}}</h4>
               <form class="pt-3" method="POST" id="form">
