@@ -16,7 +16,7 @@
   <!-- End plugin css for this page -->
   <!-- inject:css -->
   <link rel="stylesheet" href="/css/horizontal-layout/style.css">
-  <link rel="stylesheet" href="/css/horizontal-layout/style_demogroup.css">
+  <link rel="stylesheet" href="/css/horizontal-layout/style_oragroup.css">
   <!-- endinject -->
   <link rel="stylesheet" href="/vendors/iconfonts/font-awesome/css/font-awesome.min.css" />
   @yield('styles')

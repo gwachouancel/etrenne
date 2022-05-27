@@ -15,7 +15,7 @@
   <!-- End plugin css for this page -->
   <!-- inject:css -->
   <link rel="stylesheet" href="/css/horizontal-layout/style.css">
-  <link rel="stylesheet" href="/css/horizontal-layout/style_demogroup.css">
+  <link rel="stylesheet" href="/css/horizontal-layout/style_oragroup.css">
   <!-- endinject -->
   <link rel="shortcut icon" href="/images/favicon_demogroup.jpg" />
 </head>
